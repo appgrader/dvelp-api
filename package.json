@@ -24,7 +24,7 @@
         "crypto": "^1.0.1",
         "dotenv": "^8.2.0",
         "jsonwebtoken": "^8.5.1",
-        "knex": "^0.21.2",
+        "knex": "^2.4.0",
         "koa": "^2.13.0",
         "koa-bodyparser": "^4.3.0",
         "koa-json": "^2.0.2",
